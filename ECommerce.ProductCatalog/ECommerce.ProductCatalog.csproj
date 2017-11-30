@@ -87,6 +87,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="ServiceEventSource.cs" />
     <Compile Include="ServiceFabricProductRepository.cs" />
+    <Compile Include="TestRepo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="PackageRoot\Config\Settings.xml" />
